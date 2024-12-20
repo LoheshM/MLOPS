@@ -40,7 +40,6 @@ Developed an AI-driven application to generate blogs using AWS Lambda and Bedroc
 ### Key Features  
 - **LLMOps Workflows:** Enabled efficient model management and deployment using NVIDIA NeMo.  
 - **Scalability:** Integrated AWS infrastructure, including S3 for data storage and Lambda for serverless execution.  
-- **Explainability:** Incorporated Grad-CAM (XAI) for visual explanations to highlight critical regions during inference.  
 - **Model Fine-tuning:** Optimized Hugging Face models for specific generative tasks.  
 
 ### Tools & Technologies  
