@@ -84,5 +84,4 @@ Dataset License: Non-commercial license (CC BY-NC-ND 4.0).
 
 ---
 
-git clone https://github.com/your-username/automated-mlops-generative-ai.git
-cd automated-mlops-generative-ai
+
